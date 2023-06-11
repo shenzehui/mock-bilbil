@@ -10,8 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 
 @SpringBootApplication
-public class ImoocBilBilApp {
+public class MockBilBilApp {
     public static void main(String[] args) {
-        SpringApplication.run(ImoocBilBilApp.class, args);
+        SpringApplication.run(MockBilBilApp.class, args);
     }
 }

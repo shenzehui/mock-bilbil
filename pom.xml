@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.szh</groupId>
-    <artifactId>imooc-bilbil</artifactId>
+    <artifactId>mock-bilbil</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
@@ -16,9 +16,9 @@
     </parent>
 
     <modules>
-        <module>imooc-bilbil-api</module>
-        <module>imooc-bilbil-service</module>
-        <module>imooc-bilbil-dao</module>
+        <module>mock-bilbil-api</module>
+        <module>mock-bilbil-service</module>
+        <module>mock-bilbil-dao</module>
     </modules>
 
     <properties>
